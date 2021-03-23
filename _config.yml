@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-#
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
 #    |  |  | .-. :  .'    \ '-.  .-'
@@ -12,45 +5,38 @@
 #    `--'   `----''--'   '--' `--'
 
 
-
+# theme: jekyll-text-theme
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
-
+title   : ( ( S i l e n t e S o n o r o ) )) 
+description: Silente Sonoro genera artesanías copyleft que promueven la comunicación acústica utilizando técnicas de narrativa sonora con medios analógicos y digitales. Hecho con software libre.
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: es # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
+  #type      : person # "person" (default), "organization"
+  name      : vlax
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  bio       : Artesano Multimedia. Mestizo Galáctico.
+  # email     :
+ 
+  twitter   : vlax_ # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  # telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+
+  # github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
@@ -74,7 +60,7 @@ paths:
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license: CC-BY-SA-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -124,36 +110,6 @@ comments:
   disqus:
     shortname: # the Disqus shortname for the site
 
-  ## Gitalk
-  # please refer to https://github.com/gitalk/gitalk for more info.
-  gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
-
-  ## Valine
-  # please refer to https://valine.js.org/en/ for more info.
-  valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
-    placeholder : # Prompt information
-    visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
-
-
-## => Pageview
-##############################
-pageview:
-  provider: false # false (default), "leancloud", "custom"
-
-  ## Leancloud
-  leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
 
 
 ## => Search
