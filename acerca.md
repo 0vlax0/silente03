@@ -1,20 +1,20 @@
 ---
 layout: article
-title: ¿Qué es Silente Sonoro?
+title: artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
 article_header:
   type: overlay
   theme: dark
-  background_color: '#ba00ba'
-  background_image: false
   align: center
+  background_color: '#0f000f'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /silente03/assets/images/earlogo-dark-01.jpg
   
 ---
 
-## artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
+## También, un conjunto de acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico
 
-## acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico
-
-![Bienvenida tu escucha atenta](/silente02/assets/images/earlogo-dark-01.jpg)
+# Bienvenida tu escucha atenta
 
 Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.md). | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
 ------------ | -------------
