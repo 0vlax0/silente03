@@ -1,6 +1,6 @@
 ---
 layout: article
-title: artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
+title:  Bienvenida tu escucha atenta
 article_header:
   type: overlay
   theme: dark
@@ -12,9 +12,9 @@ article_header:
   
 ---
 
-## También, un conjunto de acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico
+## acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico
 
-# Bienvenida tu escucha atenta
+# artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
 
 Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.md). | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
 ------------ | -------------
