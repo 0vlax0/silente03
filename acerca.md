@@ -8,7 +8,7 @@ article_header:
   background_color: '#0f000f'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /silente03/assets/images/earlogo-dark-01.jpg
+    src: /silente03/assets/images/logo/earlogo-dark-01.jpg
   
 ---
 
