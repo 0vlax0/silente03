@@ -1,11 +1,13 @@
 ---
 layout: article
 title: ¿Qué es Silente Sonoro?
-article-header :
-	type: overlay
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#ba00ba'
+  background_image: false
   align: center
-	theme: light
-	background-color: #ba00ba	
+  
 ---
 
 ## artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
