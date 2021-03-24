@@ -3,13 +3,14 @@ layout: article
 title: ¿Qué es Silente Sonoro?
 article-header :
 	type: overlay
+  align: center
 	theme: light
 	background-color: #ba00ba	
 ---
 
-# Esta es una factoría de artesanías sonoras para analizar el entorno que el Ser Humano ha creado en torno a sus distintas percepciones del silencio. 
+## artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
 
-## Es también un conjunto de acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico.
+## acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico
 
 ![Bienvenida tu escucha atenta](/silente02/assets/images/earlogo-dark-01.jpg)
 
