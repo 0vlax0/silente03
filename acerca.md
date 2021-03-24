@@ -16,7 +16,7 @@ article_header:
 
 # artesanías sonoras para analizar el ambiente que el Ser Humano ha creado para percibir el silencio
 
-Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.md). | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
+Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.html). | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
 ------------ | -------------
 Donde sea, comparte todos tus silencios. | Aquí se practica la fonografía con medios analógicos y digitales.
 
