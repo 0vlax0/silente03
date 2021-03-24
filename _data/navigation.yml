@@ -1,7 +1,7 @@
 header:
   - title: Acerca de  
-    url: /acerca
+    url: /acerca.md
   - title: Radio
- url: /radio
+ url: /radio.md
   - title: Docs
-  url: /docs
+  url: /docs.md
