@@ -1,3 +1,10 @@
+---
+layout: articles
+title: Licencia de uso, distribución y consumo
+aside:
+  toc: true  
+---
+
 ### Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Licencia Pública Internacional — CC BY-SA 4.0
 
 #### https://creativecommons.org/licenses/by-sa/4.0/legalcode.es
