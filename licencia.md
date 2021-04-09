@@ -1,8 +1,8 @@
 ---
 layout: articles
-title: Licencia de uso, distribución y consumo
-aside:
-  toc: true  
+title: Licencia de uso
+sidebar:
+  nav: layouts
 ---
 
 ### Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Licencia Pública Internacional — CC BY-SA 4.0
