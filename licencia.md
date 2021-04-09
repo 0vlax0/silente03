@@ -1,8 +1,8 @@
 ---
 layout: articles
 title: Licencia de uso
-sidebar:
-  nav: layouts
+aside:
+  toc: true
 ---
 # CC BY-SA 4.0
 __Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Licencia Pública Internacional https://creativecommons.org/licenses/by-sa/4.0/legalcode.es__
