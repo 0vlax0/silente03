@@ -1,6 +1,6 @@
 ---
 layout: article
-title:   artesanías sonoras para analizar la percepción de nuestros diferentes silencios
+title:   artesanías sonoras para nuestros diferentes silencios
 article_header:
   type: overlay
   theme: dark
@@ -8,11 +8,12 @@ article_header:
   background_color: '#0f000f'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/logo/earlogo-dark-01.jpg
+    src: /assets/images/logo/earlogo-dark-02.jpg
   
 ---
 
-## acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico
+## También
+### acciones multidisplinarias para la valoración, educación y difusión de nuestro imaginario acústico
 
 Silente Sonoro es Cultura Libre Copyleft. Se distribuye con [licencia CC-BY-SA](LICENCE.html). | Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __Reconociendo__ a [__vlax__](https://vlax.dyne.org) como autor.
 ------------ | -------------
