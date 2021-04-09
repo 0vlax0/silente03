@@ -3,7 +3,7 @@ header:
     url: /acerca.html
   - title: Historia
     url: /historial.html
-# - title: Radio
+ - title: Radio
 # url: /radio.html
  - title: Documentos
- url: /labs.html
+ # url: /labs.html
