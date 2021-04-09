@@ -2,7 +2,7 @@
 layout: articles
 title: Fanzine educativo
 articles:
-  data_source: labs
+  data_source: site.labs
   type: brief
   show_info: true
 ---
