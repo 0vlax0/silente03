@@ -19,7 +19,7 @@ Como sea o Donde sea, comparte todos tus silencios. Aquí se practica la fonogra
 
 ### Silente Sonoro es Cultura Libre Copyleft hecho por [vlax](https://vlax.dyne.org)
 
-Se distribuye con [licencia CC-BY-SA](LICENCE.html). Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __reconociendo__ a __vlax__ como autor colectivo.
+Se distribuye con [licencia CC-BY-SA](licencia.html). Puedes __Compartir__ y __Adaptar__ los contenidos de este proyecto __reconociendo__ a __vlax__ como autor colectivo.
 
 
 
