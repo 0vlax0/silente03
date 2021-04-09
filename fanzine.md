@@ -1,10 +1,6 @@
 ---
 layout: articles
 title: Fanzine educativo
-articles:
-  data_source: site.labs
-  type: brief
-  show_info: true
 ---
 
 ## Materiales educativos sobre fonografía y narrativa sonora
