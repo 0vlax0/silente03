@@ -1,6 +1,8 @@
 header:
   - title: Acerca de  
     url: /acerca.html
+  - title: Historia
+    url: /historial.html
 #  - title: Radio
 # url: /radio.html
 # - title: Docs
