@@ -8,17 +8,10 @@ header:
 orelha:
   - title: Escuchas
     children:
-    - title: test 1
-      url: /licencia.html
-    - title: test 2
-      url: /labs.html
-    - title: test n
-      url: https://archive.org/
-
-#  - title: Podcast
-#    children:
-#      - title: Radio Fanzine temporada 1
-#        url: https://archive.org/details/Silente.Sonoro_podcast_
+      - title: Podcast
+        children:
+          - title: Radio Fanzine
+            url: https://archive.org/details/Silente.Sonoro_podcast_
 #  
 #  - title: Periodismo
 #    children:
