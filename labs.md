@@ -9,4 +9,6 @@ data_source: site.labs
 ---
 
 # Documentos 
+
 ## metodologías
+*Estoy formado dentro de una cultura tecnológica de la que tan solo me puedo escapar por medio de la imaginación. Estas son mis razones para guardar silencio.*
