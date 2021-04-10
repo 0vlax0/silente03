@@ -8,29 +8,19 @@ header:
 orelha:
   - title: Escuchas
     children:
-      - title: Podcast
-        children:
-          - title: Radio Fanzine
-            url: https://archive.org/details/Silente.Sonoro_podcast_
-#  
-#  - title: Periodismo
-#    children:
-#      - title: Crónicas prosaicas
-#        url: https://archive.org/details/cronicas-prosaicas
+      - title: Radio Fanzine
+        url: https://archive.org/details/Silente.Sonoro_podcast_
         
-#  - title: Musicología
-#    children:
-#      - title: Fonografía musical de México
-#        url: https://archive.org/details/Fonografia.Musical_Mexico
+      - title: Crónicas prosaicas
+        url: https://archive.org/details/cronicas-prosaicas
+        
+      - title: Fonografía musical de México
+        url: https://archive.org/details/Fonografia.Musical_Mexico
    
-#  - title: Biofonía
-#     children:
-#      - title: Anima
-#        url: https://archive.org/details/Tierra.de.Nadie_Fonografia-Biofonia
+      - title: Biofonía
+        url: https://archive.org/details/Tierra.de.Nadie_Fonografia-Biofonia
         
-#  - title: Paisaje Sonoro
-#     children: 
-#      - title: Tierra de Nadie 2000-2013
-#        url: https://archive.org/details/Tierra.de.Nadie_Paisajista.Sonora
-#      - title: Talleres de narrativa
-#        url: https://archive.org/details/Silente-Sonoro_Talleres_de_narrativa_sonora
+      - title: Paisaje Sonoro 2000-2013
+        url: https://archive.org/details/Tierra.de.Nadie_Paisajista.Sonora
+      - title: Talleres de narrativa
+        url: https://archive.org/details/Silente-Sonoro_Talleres_de_narrativa_sonora
