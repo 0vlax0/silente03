@@ -13,22 +13,22 @@ orelha:
   
   - title:  Periodismo
     children:
-      - title:  Crónicas prosaicas        
+      - title:  Crónicas prosaicas
         url:    https://archive.org/details/cronicas-prosaicas
         
   - title:  Musicología
     children:
-      - title: México
-        url: https://archive.org/details/Fonografia.Musical_Mexico
+      - title:  México
+        url:  https://archive.org/details/Fonografia.Musical_Mexico
         
   - title:  Biofonía
-    children: 
-      - title: Anima
-        url: https://archive.org/details/Tierra.de.Nadie_Fonografia-Biofonia
+    children:
+      - title:  Anima
+        url:  https://archive.org/details/Tierra.de.Nadie_Fonografia-Biofonia
   
-  - title: Paisaje
-     children: 
-      - title: Paisajismo 2000-2013
-        url: https://archive.org/details/Tierra.de.Nadie_Paisajista.Sonora
-      - title: Talleres
-        url: https://archive.org/details/Silente-Sonoro_Talleres_de_narrativa_sonora
+  - title:  Paisaje
+    children:
+      - title:  Archivo 2000-2013
+        url:  https://archive.org/details/Tierra.de.Nadie_Paisajista.Sonora
+      - title:  Talleres
+        url:  https://archive.org/details/Silente-Sonoro_Talleres_de_narrativa_sonora
