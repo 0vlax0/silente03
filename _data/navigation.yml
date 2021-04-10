@@ -7,13 +7,13 @@ header:
 # para sidebar sección Radio
 orelha:
   - title: Escuchas
-  children:
-  - title: test 1
-    url: /licencia.html
-  - title: test 2
-    url: /labs.html
-  - title: test n
-    url: https://archive.org/
+    children:
+    - title: test 1
+      url: /licencia.html
+    - title: test 2
+      url: /labs.html
+    - title: test n
+      url: https://archive.org/
 
 #  - title: Podcast
 #    children:
