@@ -5,7 +5,18 @@ header:
     url: /licencia.html
 
 # para sidebar sección Radio
+
 layouts:
+  - title: Layouts
+    children:
+      - title:  Single
+        url:    /page/single.html
+      - title:  Aside
+        url:    /page/aside.html
+      - title:  Sidebar
+        url:    /page/sidebar.html
+
+orelha:
   - title: Podcast
     children:
       - title:  Radio Fanzine temporada 1
@@ -16,19 +27,19 @@ layouts:
       - title:  Crónicas prosaicas
         url:    https://archive.org/details/cronicas-prosaicas
         
-   - title: Musicología
-     children:
+  - title: Musicología
+    children:
       - title:  Fonografía musical de México
         url:    https://archive.org/details/Fonografia.Musical_Mexico
    
-   - title: Biofonía
+  - title: Biofonía
      children:
       - title:  Anima
         url:    https://archive.org/details/Tierra.de.Nadie_Fonografia-Biofonia
         
-   - title:  Paisaje Sonoro
+  - title:  Paisaje Sonoro
      children: 
-        title:  Tierra de Nadie 2000-2013
+      - title:  Tierra de Nadie 2000-2013
         url:   https://archive.org/details/Tierra.de.Nadie_Paisajista.Sonora
       - title:  Talleres de narrativa
         url:  https://archive.org/details/Silente-Sonoro_Talleres_de_narrativa_sonora
