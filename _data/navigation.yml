@@ -6,6 +6,7 @@ header:
 
 # para sidebar sección Radio
 orelha:
+  children: Escuchas
   - title: test
     url: /licencia.html
   - title: test 2
