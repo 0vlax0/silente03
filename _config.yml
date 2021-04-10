@@ -80,6 +80,20 @@ mermaid: # false (default), true
 chart: # false (default), true
 
 
+## Colecciones
+
+#collections_dir: docus
+#collections:
+ # labs:
+  #  output: true
+  #sample_page:
+   # output: true
+  #sample_articles:
+   # output: true
+  #sample_languages:
+   # output: true
+    
+
 ## => Paginate
 ##############################
 paginate: 8
