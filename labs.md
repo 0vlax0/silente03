@@ -1,6 +1,7 @@
 ---
 layout: articles
 title: Laboratorio
+show_title: false
 data_source: site.labs
   show_cover: false
   show_excerpt: true
