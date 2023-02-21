@@ -1,0 +1,15 @@
+---
+layout: home
+title: Bienvenida tu escucha atenta
+header:
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(51, 0, 51), rgb(135, 0, 135))'
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#190033'
+---
+
+# Suena tu imaginario acústico
+
+## Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales. Hecho con software libre.
