@@ -1,28 +1,11 @@
 ---
-layout: articles
-titles:
-  # @start locale config
-  en      : &EN       Home
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
- 
-  fr      : &FR       Accueil
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-   # @end locale config
-show_title: false
-articles:
-  data_source: paginator.posts
-  article_type: BlogPosting
-  show_cover: false
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
+layout: article
+titles: Bienvenida tu escucha atenta
+show_title: true
+article_header:
+  type: cover
+  image:
+    src: /docs/assets/images/cover2.jpg
 ---
 <div class="layout--home">
   {%- include paginator.html -%}
