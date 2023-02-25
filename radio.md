@@ -1,10 +1,6 @@
 ---
 layout: article
 title : Radio
-sidebar:
-  nav: orelha
-aside:
-  toc : true
 ---
 
 
