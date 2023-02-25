@@ -1,12 +1,13 @@
 ---
 layout: article
 title : Radio
+sidebar:
+  nav: orelha
+aside:
+  toc : true
 ---
 
 
-# Radio
-## Bajo demanda (podcast)
+# Habla el imaginario
+## El sonido es mi circunstancia
 
-* [Descarga y escucha](https://archive.org/details/Silente.Sonoro_podcast_)
-
-_hoja en edición_

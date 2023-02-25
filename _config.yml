@@ -36,7 +36,7 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : Artesano multimedia
   email     : silente@dyne.org
-  twitter   : _vlax # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+ #twitter   : _vlax #
   
 
 ## => GitHub Repository (if the site is hosted by GitHub)
