@@ -1,19 +1,37 @@
 header:
-  - titles:
-      # @start locale config
-    es-MX   : *ES		  Archivo
-      # @end locale config
-    url: /archive.html
-
-  - titles:
-      # @start locale config
-    en      : &EN       About
-    es-MX   : *ES       Acerca
-      # @end locale config
+  - title: Acerca
     url: /acerca
-
-  - title: Historial
-    url: /historial
-    
   - title: Radio
     url: /radio
+  - title: Historial
+    url: /historial
+  - title: Licencia
+    url: /licencia
+# para sidebar sección Radio  
+orelha:
+  - title: A la carta (podcast)
+    children:
+      - title:  Radio Fanzine
+        url:    https://archive.org/details/Silente.Sonoro_podcast_
+  
+  - title: Periodismo
+    children:
+      - title:  Crónicas prosaicas
+        url:    https://archive.org/details/cronicas-prosaicas
+        
+  - title:  Musicología
+    children:
+      - title:  México
+        url:  https://archive.org/details/Fonografia.Musical_Mexico
+        
+  - title:  Biofonía
+    children:
+      - title:  Anima
+        url:  https://archive.org/details/Tierra.de.Nadie_Fonografia-Biofonia
+  
+  - title:  Paisaje
+    children:
+      - title:  Archivo 2000-2013
+        url:  https://archive.org/details/Tierra.de.Nadie_Paisajista.Sonora
+      - title:  Talleres
+        url:  https://archive.org/details/Silente-Sonoro_Talleres_de_narrativa_sonora
