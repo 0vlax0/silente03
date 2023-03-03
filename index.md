@@ -13,6 +13,6 @@ article_header:
 
 <div class="hero hero--center">
   <div class="hero__content">
-    <h2>Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.  Hecho con software libre.</h2>
+    <h2><i class="fa-thin fa-solar-system"></i> Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.  Hecho con software libre.</h2>
   </div>
 </div>
