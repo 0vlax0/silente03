@@ -1,7 +1,6 @@
 ---
-layout: home
-title: Bienvenida tu escucha atenta
-mode : immersive
+layout: article
+title: Suena tu imaginario acústico
 header:
   theme: dark
   background: 'linear-gradient(135deg, rgb(51, 0, 51), rgb(135, 0, 135))'
@@ -14,10 +13,8 @@ article_header:
    src: /assets/images/logo/logo_15-ss14.jpg
 ---
 
-# Suena tu imaginario acústico
-
 <div class="hero hero--center">
   <div class="hero__content">
-    <h2>Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.&nbsp; <i class="fa-light fa-solar-system"></i> Hecho con software libre.</h2>
+    <i class="fa-duotone fa-galaxy"></i> <h2>Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.&nbsp; <i class="fa-light fa-solar-system"></i> Hecho con software libre.</h2>
   </div>
 </div>
