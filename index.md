@@ -1,16 +1,10 @@
 ---
 layout: article
-title: Page test test test test
-mode: immersive
-header:
-  theme: dark
+title: Suena tu imaginario acústico
 article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /docs/assets/images/cover3.jpg
+  type: cover
+  image:
+  src: /assets/images/logo/logo_15-ss14.jpg
 ---
 
 <div class="hero hero--center">
