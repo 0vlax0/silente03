@@ -3,18 +3,18 @@ layout: article
 title: Suena tu imaginario acústico
 header:
   theme: dark
-  background: 'linear-gradient(135deg, rgb(51, 0, 51), rgb(135, 0, 135))'
+  background: 'linear-gradient(135deg, rgb(34, 139, 87), rgb(139, 34, 139))'
 article_header:
   type: overlay
   theme: dark
-  background_color: '#190033'
+  background_color: '#203028'
   background_image:
-   gradient: 'linear-gradient(105deg, rgb(135, 0, 135)), rgb(51, 0, 51))' 
-   src: /assets/images/logo/logo_15-ss14.jpg
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /docs/assets/images/cover3.jpg
 ---
 
 <div class="hero hero--center">
   <div class="hero__content">
-    <i class="fa-duotone fa-galaxy"></i> <h2>Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.&nbsp; <i class="fa-light fa-solar-system"></i> Hecho con software libre.</h2>
+    <i class="fa-thin fa-galaxy"></i> <h2>Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.  Hecho con software libre.</h2>
   </div>
 </div>
