@@ -2,6 +2,8 @@
 layout: article
 title: Suena tu imaginario acústico
 mode: immersive
+header:
+  gradient: 'linear-gradient(105deg, rgb(135, 0, 135)), rgb(51, 0, 51))'
 article_header:
   type: overlay
   theme: dark
