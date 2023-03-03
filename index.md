@@ -15,4 +15,4 @@ article_header:
 
 # Suena tu imaginario acústico
 
-## Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales. Hecho con software libre.
+<h2>Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales. <i class="fa-light fa-solar-system"></i> Hecho con software libre.</h2>
