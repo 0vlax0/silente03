@@ -6,9 +6,8 @@ article_header:
   type: overlay
   theme: dark
   background_color: '#190033'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgb(135, 0, 135)), rgb(51, 0, 51))' 
-    src: assets/images/logo/logo_15-ss14.jpg
+  background_image: 
+    src: /assets/images/logo/logo_15-ss14.jpg
 ---
 
 <div class="hero hero--center">
