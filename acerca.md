@@ -1,6 +1,6 @@
 ---
 layout: article
-title : Escuchar para analizar las distintas percepciones del silencio.
+title : Silente Sonoro, una factoría de artesanías sonoras.
 full-width : true
 license : true
 ---
