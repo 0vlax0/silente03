@@ -1,16 +1,15 @@
 ---
 layout: article
-title : Silente Sonoro es una factoría de artesanías sonoras
+title : Escuchar para analizar las distintas percepciones del silencio.
 full-width : true
 license : true
 ---
 
 # ¿A qué suena cada momento de nuestro mundo?
-## Escuchar para analizar las distintas percepciones del silencio.
 
 ![Bienvenida tu escucha atenta](/assets/images/logo/earlogo-dark-02s.jpg){:.circle}
 
-### Silente Sonoro también son acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico.
+### Silente Sonoro son acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico.
 
 ---
 
