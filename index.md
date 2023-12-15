@@ -14,10 +14,10 @@ article_header:
 
 <div class="hero">
   <div class="hero__content">
-    <h2><i class="fa fa-cogs"></i> Artesanías copyleft sobre comunicación acústica y narrativa sonora con medios analógicos y digitales.  Hecho con software libre.</h2>
+    <h2><i class="fa fa-cogs"></i> Artesanías copyleft sobre comunicación acústica. <br/> <i class="fa fa-microphone" aria-hidden="true"></i>Narrativa sonora con medios analógicos y digitales.  Hecho con software libre.</h2>
   </div>
   <div class="hero hero--center" style="background-color: #250a0f;">
   <div class="hero__content">
-    <h3>Un proyecto de <i class="fa fa-bug" aria-hidden="true"></i> <a href="https://vlax.dyne.org/whoami/">v l a x</a> con licencia <a href="/licencia">CC BY-SA</a></h3>
+    <h4><i class="fa fa-creative-commons" aria-hidden="true"></i>Un proyecto de </i> <a href="https://vlax.dyne.org/whoami/">vlax</a> con licencia <a href="/licencia">CC BY-SA</a></h4>
   </div>
 </div>
