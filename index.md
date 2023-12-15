@@ -1,4 +1,4 @@
-    ---
+---
 layout: article
 title: Suena tu imaginario acústico
 mode: immersive
