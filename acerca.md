@@ -8,13 +8,13 @@ license : true
 # ¿A qué suena cada momento de nuestro mundo?
 ## Escuchar para analizar las distintas percepciones del silencio.
 
-![Bienvenida tu escucha atenta](/silente/img/earlogo-dark-01.jpg){:.circle}
+![Bienvenida tu escucha atenta](/assets/images/logo/earlogo-dark-02s.jpg){:.circle}
 
 ### Silente Sonoro también son acciones multidisplinarias basadas en la valoración, educación y difusión de nuestro imaginario acústico.
 
 ---
 
-# `(ɔ)`
+# (ɔ)
 
 |**Cultura Libre Copyleft**|__Compartir__ y __Adaptar__|
 |-------------------------|---------------------------|
