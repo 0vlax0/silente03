@@ -22,7 +22,7 @@ article_header:
 <div class="hero hero--center" style="background-color: #250a0f;">
 
   <div class="hero__content">
-   <h3><i class="fa fa-creative-commons" aria-hidden="true"></i> Un proyecto de <a href="https://vlax.dyne.org/whoami/">vlax</a> con licencia <a href="/licencia">CC BY-SA</a></h3>
+    <h3><i class="fab fa-creative-commons" aria-hidden="true"></i> Un proyecto de <a href="https://vlax.dyne.org/whoami/">vlax</a> con licencia <a href="/licencia">CC BY-SA</a></h3>
   </div>
 </div>
 
